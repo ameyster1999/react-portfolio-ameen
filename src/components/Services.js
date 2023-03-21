@@ -14,9 +14,9 @@ function Services() {
                     <li>OneDoor Way - REST APIs development using Java SpringBoot and authentication using Spring Security</li>
                 </ul>
             </div>
-            <div style={{ fontWeight: 'bold' ,display:"grid" }}>
+            <div style={{ fontWeight: 'bold' ,display:"grid"}}>
                 <h3>Tech stacks I have worked with:</h3>
-                <ul>
+                <ul >
                     <li>Kubernetes</li>
                     <li>Helm</li>
                     <li>Docker</li>
