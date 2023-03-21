@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/react-portfolio-ameen/static/css/main.ff1e8142.css",
-    "main.js": "/react-portfolio-ameen/static/js/main.816ec211.js",
+    "main.css": "/react-portfolio-ameen/static/css/main.7c381547.css",
+    "main.js": "/react-portfolio-ameen/static/js/main.36cabfc0.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio-ameen/static/js/787.1ed0c42c.chunk.js",
     "static/media/ameen.jpeg": "/react-portfolio-ameen/static/media/ameen.b5df7ca0d08380fae657.jpeg",
+    "static/media/ameen2.jpeg": "/react-portfolio-ameen/static/media/ameen2.33b6898f4351e29022e3.jpeg",
+    "static/media/ameen1.jpeg": "/react-portfolio-ameen/static/media/ameen1.69b6af354c0a61cc1045.jpeg",
+    "static/media/slick.svg": "/react-portfolio-ameen/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-portfolio-ameen/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-portfolio-ameen/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-portfolio-ameen/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-portfolio-ameen/index.html",
-    "main.ff1e8142.css.map": "/react-portfolio-ameen/static/css/main.ff1e8142.css.map",
-    "main.816ec211.js.map": "/react-portfolio-ameen/static/js/main.816ec211.js.map",
+    "main.7c381547.css.map": "/react-portfolio-ameen/static/css/main.7c381547.css.map",
+    "main.36cabfc0.js.map": "/react-portfolio-ameen/static/js/main.36cabfc0.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio-ameen/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff1e8142.css",
-    "static/js/main.816ec211.js"
+    "static/css/main.7c381547.css",
+    "static/js/main.36cabfc0.js"
   ]
 }
