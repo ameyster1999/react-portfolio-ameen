@@ -1,10 +1,11 @@
 import ameenImage from '/Users/sheejarasheed/Desktop/portfolio/src/Assets/images/ameen.jpeg';
+import ImageSlider from '/Users/sheejarasheed/Desktop/portfolio/src/components/ImageSlider.js'
 
 function HeroSection() {
     return (
         <section id="hero">
             <div className="hero-content">
-                <img src={ameenImage} alt="Mohammed Ameen Abdu Rasheed"  />
+                <ImageSlider/>
                 <h1>Mohammed Ameen Abdu Rasheed</h1>
                 <h2>Junior Software Developer</h2>
                 
