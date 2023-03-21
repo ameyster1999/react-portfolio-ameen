@@ -1,0 +1,32 @@
+
+
+nav {
+    background-color: black;
+    
+    
+}
+
+ul {
+    
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding:0;
+}
+li{
+    margin: 10px;
+    display: grid;
+    
+}
+
+link {
+    color: white;
+    margin: 0 20px;
+}
+
+
+
+
+.active {
+    font-weight: bold;
+}
