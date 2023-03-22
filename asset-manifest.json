@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio-ameen/static/css/main.7c381547.css",
-    "main.js": "/react-portfolio-ameen/static/js/main.5b156799.js",
+    "main.css": "/react-portfolio-ameen/static/css/main.69af896d.css",
+    "main.js": "/react-portfolio-ameen/static/js/main.562a2d7b.js",
     "static/js/787.1ed0c42c.chunk.js": "/react-portfolio-ameen/static/js/787.1ed0c42c.chunk.js",
     "static/media/ameen.jpeg": "/react-portfolio-ameen/static/media/ameen.b5df7ca0d08380fae657.jpeg",
     "static/media/ameen2.jpeg": "/react-portfolio-ameen/static/media/ameen2.33b6898f4351e29022e3.jpeg",
@@ -11,12 +11,12 @@
     "static/media/slick.ttf": "/react-portfolio-ameen/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/react-portfolio-ameen/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-portfolio-ameen/index.html",
-    "main.7c381547.css.map": "/react-portfolio-ameen/static/css/main.7c381547.css.map",
-    "main.5b156799.js.map": "/react-portfolio-ameen/static/js/main.5b156799.js.map",
+    "main.69af896d.css.map": "/react-portfolio-ameen/static/css/main.69af896d.css.map",
+    "main.562a2d7b.js.map": "/react-portfolio-ameen/static/js/main.562a2d7b.js.map",
     "787.1ed0c42c.chunk.js.map": "/react-portfolio-ameen/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c381547.css",
-    "static/js/main.5b156799.js"
+    "static/css/main.69af896d.css",
+    "static/js/main.562a2d7b.js"
   ]
 }
