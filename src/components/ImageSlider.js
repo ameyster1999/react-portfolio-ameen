@@ -5,7 +5,7 @@ import image2 from '/Users/sheejarasheed/Desktop/portfolio/src/Assets/images/ame
 import image3 from '/Users/sheejarasheed/Desktop/portfolio/src/Assets/images/ameen2.jpeg';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-
+import "/Users/sheejarasheed/Desktop/portfolio/src/components/ImageSlider.css";
 const images = [
     { image: image1 },
     { image: image2 },
@@ -22,12 +22,13 @@ function ImageSlider() {
         slidesToScroll: 1,
         autoplay: true
         
+        
     };
 
     return (
         <Slider {...settings}>
             {images.map((image, index) => (
-                <div key={index}>
+                <div key={index} className="image">
                     <img src={image.image} alt={`Image ${index + 1}`} />
                 </div>
             ))}

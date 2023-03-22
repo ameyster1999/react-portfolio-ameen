@@ -1,4 +1,4 @@
-import ameenImage from '/Users/sheejarasheed/Desktop/portfolio/src/Assets/images/ameen.jpeg';
+
 import ImageSlider from '/Users/sheejarasheed/Desktop/portfolio/src/components/ImageSlider.js'
 
 function HeroSection() {

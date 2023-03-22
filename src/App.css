@@ -54,3 +54,14 @@ nav ul {
 
 
 
+/* App.css */
+
+.App {
+  max-width: auto;
+  margin: 0 auto;
+}
+@media (max-width: 1024px) {
+   .App{
+    display: none;
+   }
+}
